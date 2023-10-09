@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rihab Ait Bahessou</h1>
+<h1 align="center">Hi 👋, I'm Mohammed Amine salmane</h1>
 <h3 align="center">A passionate full stack developer and a Software engeneering student at @INPT</h3>
 
 - 🔭 I’m currently working on **OCR identification app**
