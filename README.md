@@ -1,5 +1,5 @@
 <h3 align="center"><samp>this is <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/watch?v=BXkm6h6uq0k&ab_channel=thestrokesVEVO">Unk1ndled
-</a></b><h3 align="center"><samp>'s Github account <b></samp></h3>
+</a></b><h3 align="center">'s Github account </h3>
 <p align="center"><br>
   <samp>
     「 Software Engineering student @ ☕ <b>INPT</b> 」<br>
