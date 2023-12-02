@@ -2,7 +2,7 @@
 </a>'s Github account</b><h3 align="center"> </h3>
 <p align="center"><br>
   <samp>
-    「 Software Engineering student @ ☕ <b>INPT</b> 」<br>
+    「 Software Engineering student @ 🦈<b>INPT</b> 」<br>
   </samp>
 </p>
 <details align="center">
