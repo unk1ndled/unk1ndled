@@ -1,7 +1,7 @@
 
 
 <picture>
-<img width="100%" src="https://preview.redd.it/ba9hhksr38a71.gif?width=1680&auto=webp&s=5ec3296ada9392f7d7c876148c666360a4c1e7af"></img>
+<img width="100%" src="https://img2.joyreactor.cc/pics/post/tactical-destruction-Pixel-Gif-Pixel-Art-%D0%BA%D0%BE%D0%BD%D1%81%D0%BE%D0%BB%D0%B8-8307899.gif"></img>
 </picture>
 
 <h3 align="center"><samp>this is <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/watch?v=BXkm6h6uq0k&ab_channel=thestrokesVEVO">Unk1ndled
