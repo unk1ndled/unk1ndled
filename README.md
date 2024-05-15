@@ -18,8 +18,12 @@
       <a href="https://github.com/unk1ndled?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
 
   <br>
+  <picture>
+
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=unk1ndled&show_icons=true&theme=tokyonight" />
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unk1ndled&layout=compact&theme=tokyonight" />
+  </picture>
+
   <br>
     Check out my <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/watch?v=dSuINZdJBk8&ab_channel=KeroKeroBonito">Resumé</a><br>
      <a href="https://github.com/unk1ndled?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
@@ -28,6 +32,8 @@
   </samp>
   </p>
 <br>
+  <br>
+
 <samp>
   <p align="center">
     ════ ⋆★⋆ ════<br>
