@@ -13,8 +13,6 @@
     「 Software Engineering student @ 🦈<b>INPT</b> 」<br>
   </samp>
 </p>
-<details align="center">
-   <summary> <samp>&#9776; Details</samp></summary>
    <p align="center">
      <br>
       <a href="https://github.com/unk1ndled?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
@@ -29,7 +27,6 @@
      <a href="https://github.com/unk1ndled/unk1ndled" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/unk1ndled/unk1ndled?label=profile%20updated&style=flat-square"></a>
   </samp>
   </p>
-</details>
 <br>
 <samp>
   <p align="center">
