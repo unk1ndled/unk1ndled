@@ -1,12 +1,15 @@
-# Comp Sci student
+# Some would say hireable Comp Sci student
 * go 
 * rust 
 * nix
 
-
-<img src="./nixos.gif" alt="NixOS" style="width:120px; float:left; margin:0 12px 12px 0;" />
-<img src="./lucki.jpg" alt="lucki" style="width:120px; float:right; margin:0 0 10px 10px;" />
-<img src="./لينكس-لينوكس.gif" alt="linux" style="width:120px; float:right; margin:0 0 10px 10px;" />
-<img src="./larp-larping.gif" alt="larp" style="width:120px; float:right; margin:0 0 10px 10px;" />
-
 > "we get high we get fat _lucki"
+
+<table>
+  <tr>
+    <td><img src="./nixos.gif" alt="NixOS" width="100" /></td>
+    <td><img src="./larp-larping.gif" alt="larp" width="100" /></td>
+    <td><img src="./لينكس-لينوكس.gif" alt="linux" width="100" /></td>
+    <td><img src="./lucki.jpg" alt="lucki" width="100" /></td>
+  </tr>
+</table>
