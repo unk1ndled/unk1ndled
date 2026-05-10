@@ -1,8 +1,6 @@
-# Some would say hireable Comp Sci student
 * go 
 * rust 
 * nix
-
 
 <table>
   <tr>
