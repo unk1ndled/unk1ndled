@@ -1,7 +1,3 @@
-* go 
-* rust 
-* nix
-
 <table>
   <tr>
     <td><img src="./nixos.gif" alt="NixOS" width="100" /></td>
@@ -13,4 +9,3 @@
 
   </tr>
 </table>
-> "we get high we get fat _lucki"
